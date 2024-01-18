@@ -1,0 +1,18 @@
+{
+  "name": "object-oriented-programing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^4.1.2",
+    "inquirer": "^9.2.12"
+  }
+}
